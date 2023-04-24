@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Chintan
 
 [![Chintan's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchintan)](https://github.com/imchintan/)
-[![Chintan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=imchintan)](https://github.com/imchintan/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
