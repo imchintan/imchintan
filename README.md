@@ -210,6 +210,6 @@ My approach to software development focuses on delivering reliable, maintainable
 
 ## Connect With Me
 
-[LinkedIn](https://linkedin.com/in/imchintan) | [GitHub](https://github.com/imchintan) | [Stack Overflow](https://stackoverflow.com/users/chintan)
+[LinkedIn](https://linkedin.com/in/imchintan) | [GitHub](https://github.com/imchintan) | [Stack Overflow](https://stackoverflow.com/users/1353676/chintan)
 
 **Areas of Interest:** Technical Leadership, Software Architecture, Full Stack Development, AI Integration, Cloud Infrastructure, Blockchain, and Web3.
