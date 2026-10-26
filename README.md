@@ -60,6 +60,8 @@ A fitness and nutrition platform that uses AI-powered meal recommendations to su
 - AI-powered recommendation features.
 - Scalable backend solutions and technical delivery.
 
+[Visit Menufit](https://menufit.com/)
+
 ### 2. beRides — Automotive Marketplace & Community Platform
 
 **Role:** Frontend Technical Lead
@@ -105,6 +107,8 @@ A platform designed to support co-operative housing management and related opera
 - Authentication and application functionality.
 - Cloud service integration and push notification functionality.
 
+[Visit Housing Hub](https://housinghub.ai/)
+
 ### 5. OnlyBeaches — Beach Discovery Platform
 
 **Role:** Lead Technical Developer
@@ -149,7 +153,7 @@ A cryptocurrency wallet mobile application developed using React Native.
 - Real-time communication using Socket.IO.
 - Google Maps integration.
 
-**Public Source Code:** [Flash Wallet GitHub Repository](https://github.com/fossabot/flash-mobileapp)
+[View Flash Wallet Source Code](https://github.com/fossabot/flash-mobileapp)
 
 ---
 
