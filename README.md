@@ -202,11 +202,12 @@ I focus on building reliable, maintainable, and scalable applications while bala
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=imchintan&show_icons=true&hide_border=true)
 
----
+--- 
+-->
 
 ## 🤝 Connect With Me
 
